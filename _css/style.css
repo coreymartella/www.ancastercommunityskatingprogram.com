@@ -1,0 +1,61 @@
+a {
+text-decoration:  none;
+border: none;
+color: #336699;
+}
+
+a:hover {
+text-decoration:  none;
+border: none;
+color: #000000;
+}
+
+.link {
+padding: 0 2px 0 0;
+margin: 2px 0 2px 5px;
+letter-spacing: 2px;
+font-size: 16px;
+}
+
+h1{
+font-size: 14px;
+}
+
+h2{
+font-size: 12px;
+}
+
+p{
+padding: 3px 0 5px 0;
+margin: 5px 0 0 0;
+}
+
+.note {
+font-size: 10px;
+line-height: 9px;
+}
+
+hr {
+width: 90%;
+color: #336699;
+}
+
+table {
+margin: 0 5px 0 5px;
+background-color: rgba (0, 0, 0, 0);
+}
+
+td {
+text-align: center;
+}
+
+th {
+text-align: center;
+}
+
+td.header {
+color: #FFF;
+font-weight: bold;
+font-size: 12px;
+background-color: #99B2CC;
+}
