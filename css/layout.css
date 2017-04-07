@@ -5,7 +5,7 @@ html, body{
 	background-color: #efefef;
 	font-size: 12px;
 	font-family: trebuchet, verdana, arial;
-	background: url(../_img/pgbackground.jpg) #efefef center repeat-y;
+	background: url(../img/pgbackground.jpg) #efefef center repeat-y;
 }
 
 /* layout */
@@ -22,7 +22,7 @@ text-align: left;
 position: relative;
 width: 800px;
 height: 175px;
-background: url(../_img/header.jpg) no-repeat;
+background: url(../img/header.jpg) no-repeat;
 }
 
 #menu{
@@ -40,7 +40,7 @@ padding-bottom: 24px; /* height of footer */
 margin: 0 auto;
 text-align: justify;
 color: #000;
-background: url(../_img/skater.png) center top no-repeat;
+background: url(../img/skater.png) center top no-repeat;
 }
 
 #footer{
